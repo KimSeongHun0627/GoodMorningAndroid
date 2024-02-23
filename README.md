@@ -52,8 +52,15 @@
 
 ### android api
 
-#### alarm
+#### 1.alarm
 
-#### 빛 감지
+https://developer.android.com/develop/background-work/services/alarms/schedule?hl=ko#java
 
+#### 2.빛 감지
+
+https://developer.android.com/develop/sensors-and-location/sensors/sensors_environment?hl=ko&_gl=1*1jolfme*_up*MQ..*_ga*MTQ5OTA4NTg4My4xNzA4Njg3ODY4*_ga_6HH9YJMN9M*MTcwODY4Nzg2Ny4xLjAuMTcwODY4Nzg2Ny4wLjAuMA..
+
+https://source.android.com/docs/core/interaction/sensors/sensor-types?hl=ko
+
+### 알람 데이터 저장
 
