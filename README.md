@@ -50,5 +50,10 @@
 
 ## 필요한 기술
 
-android api
+### android api
+
+#### alarm
+
+#### 빛 감지
+
 
