@@ -64,3 +64,39 @@ https://source.android.com/docs/core/interaction/sensors/sensor-types?hl=ko
 
 ### 알람 데이터 저장
 
+id integer NotNull AutoIncrement
+
+월요일 Monday integer
+
+화요일 Tuesday integer
+
+수요일 Wednesday integer
+
+목요일 Thursday integer
+
+금요일 Friday integer
+
+토요일 Saturday integer
+
+일요일 Sunday integer
+
+간격 Interval integer
+
+시작 시간 startTime integer NotNull
+
+마지막 시간 endTime integer NotNull
+
+알람음 alarmSound BLOB NotNull
+
+메시지 message text
+
+밝기 brightness integer NotNull
+
+활성화/비활성화 activation integer
+
+
+
+
+
+
+
